@@ -11,9 +11,7 @@ Tujuan saya menulis blog ini untuk Dokumentasi mengenai kehidupan pribadi admin,
 seorang pelupa IT hehe.
 
 Imam Syafi'i berkata
-~~~~~
-"Ilmu adalah buruan dan tulisan adalah ikatannya
-Ikatlah buruanmu dengan tali yang kuat
-Termasuk kebodohan kalau engkau memburu kijang
-Setelah itu kamu tinggalkan terlepas begitu saja"
-~~~~~
+> "Ilmu adalah buruan dan tulisan adalah ikatannya
+> Ikatlah buruanmu dengan tali yang kuat
+> Termasuk kebodohan kalau engkau memburu kijang
+> Setelah itu kamu tinggalkan terlepas begitu saja"
