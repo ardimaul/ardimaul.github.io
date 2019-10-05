@@ -1,7 +1,7 @@
 ---
 layout: article
 title: First Impression
-key: first_impression-20191005
+key: 20191005
 ---
 Bismillah..
 Akhirnya jadi juga blog ini.. Hosting di Github Pages. Keren ya..
