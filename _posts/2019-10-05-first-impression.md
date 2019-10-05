@@ -1,7 +1,6 @@
 ---
 layout: article
-title: Document - Writing Posts
-mathjax: true
+title: First Impression
 ---
 Bismillah..
 Akhirnya jadi juga blog ini.. Hosting di Github Pages. Keren ya..
