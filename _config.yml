@@ -34,7 +34,7 @@ timezone: Asia/Jakarta
 ## => Author and Social
 ##############################
 author:
-  type      : person
+  type      : "person"
   name      : Ardiansyah Maulana
   url       : https://ardimaul.github.io
   avatar    : # path or url of avatar image (square)
@@ -122,7 +122,7 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: ardimaul
+    shortname: "ardimaul"
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
