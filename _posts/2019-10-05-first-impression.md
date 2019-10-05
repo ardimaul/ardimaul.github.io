@@ -1,6 +1,7 @@
 ---
 layout: article
 title: First Impression
+comments: true
 ---
 Bismillah..
 Akhirnya jadi juga blog ini.. Hosting di Github Pages. Keren ya..
