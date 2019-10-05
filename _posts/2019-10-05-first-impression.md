@@ -1,7 +1,7 @@
 ---
 layout: article
 title: First Impression
-key: 20191005
+key: 20191005-1414
 ---
 Bismillah..
 Akhirnya jadi juga blog ini.. Hosting di Github Pages. Keren ya..
@@ -11,7 +11,9 @@ Tujuan saya menulis blog ini untuk Dokumentasi mengenai kehidupan pribadi admin,
 seorang pelupa IT hehe.
 
 Imam Syafi'i berkata
+~~~~~
 "Ilmu adalah buruan dan tulisan adalah ikatannya
 Ikatlah buruanmu dengan tali yang kuat
 Termasuk kebodohan kalau engkau memburu kijang
 Setelah itu kamu tinggalkan terlepas begitu saja"
+~~~~~
