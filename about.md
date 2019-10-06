@@ -20,8 +20,8 @@ titles:
 
 Blog ini mempunya 2 tujuan, sebagai media sharing dan catatan.. Maklumi lah admin ini manusia, bisa juga lupa xD.
 
-Admin sendiri saat ini masih berstatus Pelajar, di SMKN 1 Kota Bekasi. Sekolah yang keren lah pokoknya bagi saya sendiri, kenapa? Karena disana Ardi tidak hanya belajar mengenai ilmu duniawi, namun juga dengan ilmu sopan santun.
-Betapa pentingnya untuk selalu merendah diri, meski sebanyak apapun hal yang kalian miliki. Senantiasa menghormati guru, ilmu, serta Orang Tua, serta hal lainnya. Berusaha untuk berbagi ilmu disaat sibuk dilanda tuntutan ilmu. Belajar bersyukur ketika mengalami keberhasilan ataupun kegagalan. Dan masih banyak Lainnya..
+Admin sendiri saat ini masih berstatus Pelajar, di SMKN 1 Kota Bekasi. Sekolah yang keren lah pokoknya bagi saya sendiri, kenapa? Karena disana saya tidak hanya belajar mengenai ilmu standar, namun juga dengan ilmu sopan santun.
+Betapa pentingnya untuk selalu merendah diri, meski sebanyak apapun hal yang kalian miliki. Senantiasa menghormati guru, ilmu, Orang Tua, serta hal lainnya. Berusaha untuk berbagi ilmu saat sibuk dilanda tuntutan ilmu. Belajar bersyukur ketika mengalami keberhasilan ataupun kegagalan. Dan masih banyak Lainnya..
 
 Saya sendiri sadar, bahwa ilmu yang saya dapat masih sangat jauh dengan apa yang ada di lapangan. Ya benar sangat-sangat jauh, namun dengan begitu saya dapat terus belajar dan terus memperbaiki kesalahan yang senantiasa terjadi entah disengaja maupun tidak disengaja.
 
