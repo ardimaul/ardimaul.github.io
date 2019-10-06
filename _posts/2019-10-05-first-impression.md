@@ -12,3 +12,7 @@ seorang pelupa IT hehe.
 
 Imam Syafi'i berkata
 > "Ilmu adalah buruan dan tulisan adalah ikatannya. Ikatlah buruanmu dengan tali yang kuat. Termasuk kebodohan kalau engkau memburu kijang, Setelah itu kamu tinggalkan terlepas begitu saja"
+
+```bash
+sudo ip route add 192.168.0.0/24 via 192.168.1.1 dev eth0
+```
