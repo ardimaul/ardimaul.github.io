@@ -6,7 +6,6 @@
 {%- assign _locale_readmore = __return -%}
 
 {%- assign _sorted_list = include.articles -%}
-{%- include reading_time.html -%}
 {%- if include.group_by == 'year' -%}
   {%- assign _sorted_list = _sorted_list | sort: 'date' -%}
 {%- endif -%}
