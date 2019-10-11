@@ -16,7 +16,7 @@ titles:
   ko      : &KO       소개
   ko-KR   : *KO
 ---
-# Wellcome to My Blog :D
+### Wellcome to My Blog :D
 
 Blog ini mempunya 2 tujuan, sebagai media sharing dan catatan.. Maklumi lah admin ini manusia, bisa juga lupa xD.
 
