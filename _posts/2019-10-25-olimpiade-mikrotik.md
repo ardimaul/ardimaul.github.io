@@ -3,7 +3,7 @@ layout: article
 title: Pengalaman Olimpiade Mikrotik di Bali Hari-1
 key: 20191025-olimpiade-mikrotik-1
 ---
-Yaa disini saya cuma ingin naro catetan perihal pengalaman di Bali sih.. Ya kira-kira seperti itulah pembukaannya, 
+Yaa disini saya cuma ingin naro catetan perihal pengalaman di Bali sih.. Ya kira-kira hanya inilah pembukaannya, 
 habisnya bingung hehe.
 
 Pertama, kami berkumpul di titik kumpul sekitar jam 5 pagi, lalu meluncurlah ke Bandara Halim dan sampai disana sekitar jam 5.40
