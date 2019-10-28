@@ -12,3 +12,7 @@ seorang pelupa IT hehe.
 
 Imam Syafi'i berkata
 > "Ilmu adalah buruan dan tulisan adalah ikatannya. Ikatlah buruanmu dengan tali yang kuat. Termasuk kebodohan kalau engkau memburu kijang, Setelah itu kamu tinggalkan terlepas begitu saja"
+
+Artinya adalah, kita sebagai manusia memanglah mudah lupa. Hal itu wajar, karena memang seperti itulah kodrat manusia. Untuk mengatasi hal itu, dituntut lah kita untuk mencatat setiap ilmu yang sudah kita dapat. Dengan begitu kita dapat sadar bahwa di titik itulah batas kemampuan kita sebagai manusia.
+
+Memanglah benar kita tidak dapat melampaui batasan diri kita, tetapi bukankah kita dapat memanfaatkan hal disekitar kita untuk melampaui hal yang tidak dapat kita capai? Contoh kecilnya ialah terciptanya Pesawat Terbang. Right, That's power of brain.
