@@ -1,10 +1,10 @@
 ---
 layout: article
-title: Olimpiade Mikrotik di Bali
-key: 20191025-olimpiade-mikrotik
+title: Olimpiade Mikrotik di Bali Hari-1
+key: 20191025-olimpiade-mikrotik-1
 ---
 
-  Hmm mungkin langsung saja ke intinya ya, karena memang seperti inilah saya hehe. Hal ini bermula ketika Saya dan teman saya, Dean sedang berusaha memenangkan tahap 2 cerdas cermat. Ya singkat cerita semua soal dibabat habis sama Dean, duh saya cuma kebagian 1 ehehe, namun bukan masalah bagi saya. Karena kami bekerja secara Tim, Dan akhirnya kami menang dan lanjut ke tahap selanjutnya, Hebat lah keberuntungan itu.
+Hmm mungkin langsung saja ke intinya ya, karena memang seperti inilah saya hehe. Hal ini bermula ketika Saya dan teman saya, Dean sedang berusaha memenangkan tahap 2 cerdas cermat. Ya singkat cerita semua soal dibabat habis sama Dean, duh saya cuma kebagian 1 ehehe, namun bukan masalah bagi saya. Karena kami bekerja secara Tim, Dan akhirnya kami menang dan lanjut ke tahap selanjutnya, Hebat lah keberuntungan itu.
   
 Tiba lah saat nya H-1 acara Olimpiade tahap 3, dan kami bertiga yakni Saya, Dean, dan Bu Nikmah berkumpul jam 5 pagi didepan Halte untuk berangkat bersama. Oh ya, untuk kesana kami dibimbing 2 Guru, yakni Pak Dani dan Ibu Nikmah. Pak Dani tidak ikut berangkat bareng dan memilih untuk menyusul nanti, karena rumah beliau lebih dekat dan 1 arah ke Bandara Halim.
  
