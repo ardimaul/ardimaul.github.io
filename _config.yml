@@ -33,7 +33,7 @@ timezone: Asia/Jakarta
 
 ## => Author and Social
 ##############################
-author: Ardiansyah Maulana
+author:
   type      : person
   name      : Ardiansyah Maulana
   url       : https://ardimaul.github.io
