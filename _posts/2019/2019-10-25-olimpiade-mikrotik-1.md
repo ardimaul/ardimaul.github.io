@@ -10,6 +10,7 @@ Hmm mungkin langsung saja ke intinya ya, karena memang seperti inilah saya hehe.
 Tiba lah saat nya H-1 acara Olimpiade tahap 3, dan kami bertiga yakni Saya, Dean, dan Bu Nikmah berkumpul jam 5 pagi didepan Halte untuk berangkat bersama. Oh ya, untuk kesana kami dibimbing 2 Guru, yakni Pak Dani dan Ibu Nikmah. Pak Dani tidak ikut berangkat bareng dan memilih untuk menyusul nanti, karena rumah beliau lebih dekat dan 1 arah ke Bandara Halim.
 
 <img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054017.jpg"/>
+<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054023.jpg"/>
 
 Setibanya di Bandara Halim, kami Checkin sekitar pukul 6.30 WIB yang mana pemberangkatan pesawatnya (Take Off) pukul 8.50 WIB. Dan tibalah saatnya dimana pemindaian dan pengecekan barang, kita sebut saja nama alat itu Scan tool xD, saat menggunakannya kan ada nampan tuh, tiap barang entah itu tas, jaket, sabuk metal, intinya barang yang ada metal nya itu ditaruh di nampan. Nah namanya juga pertama kali mencoba, saya langsung menaruh HP serta dompet tanpa menggunakan nampan, setelah melewati scan tool, ditegur sama petugasnya dan untung saja hp saya tidak nyangkut ehehe, duh pengalaman berharga hehe. Teman saya si Dean, malah ditegur karena sabuk metalnya yang belum dilepas xD. Ya sudahlah,,
 
