@@ -11,6 +11,7 @@ Tiba lah saat nya H-1 acara Olimpiade tahap 3, dan kami bertiga yakni Saya, Dean
 
 <div align="center" markdown="1">
 Berikut foto di Bandara Halim
+
 <img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054017.jpg"/>
 <img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054023.jpg"/>
 {:.info}
@@ -18,10 +19,11 @@ Berikut foto di Bandara Halim
 
 Setibanya di Bandara Halim, kami Checkin sekitar pukul 6.30 WIB yang mana pemberangkatan pesawatnya (Take Off) pukul 8.50 WIB. Dan tibalah saatnya dimana pemindaian dan pengecekan barang, kita sebut saja nama alat itu Scan tool xD, saat menggunakannya kan ada nampan tuh, tiap barang entah itu tas, jaket, sabuk metal, intinya barang yang ada metal nya itu ditaruh di nampan. Nah namanya juga pertama kali mencoba, saya langsung menaruh HP serta dompet tanpa menggunakan nampan, setelah melewati scan tool, ditegur sama petugasnya dan untung saja hp saya tidak nyangkut ehehe, duh pengalaman berharga hehe. Teman saya si Dean, malah ditegur karena sabuk metalnya yang belum dilepas xD. Ya sudahlah,,
 
-Berikut foto di Bandara Halim
-{:.info}
 <div align="center" mardown="1">
+Ini juga di Bandara Halim
+  
 <img class="image image--lg" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_075706.jpg"/>
+{:.info}
 </div>
 
 Oke, kita sudah masuk didalam pesawat. Diatas tempat duduk kita ada kabin tuh, nah itu diperuntukkan untuk barang yang maksimum beratnya 7kg, nah itu untuk aturan pesawat citilink, untuk pesawat lain cari sendiri hehe. Mula mula pesawat akan jalan terlebih dahulu ke ujung jalan (engga ujung juga si), intinya persiapan buat ancang-ancang lah ntah apa itu namanya. Jika sudah jauh, pesawat akan berbalik arah dan Wush.. Akselerasinya begitu cepat. Dan pesawat akan naik, perasaan ketika pesawat take off itu seperti naik Lift, ya kira-kira seperti itu lah. Oh ya, saat pesawat mulai take off, pastikan kalian tidak mengoperasikan perangkat elektronik ya, sekitar 3-5 menit. Jika sudah di udara, boleh lah mengoperasikan dengan catatan hp kalian harus dalam mode Pesawat, kalau ragu matikan saja hp nya. Dan saat didalam pesawat, telinga kalian akan berdengung, wajar kok hal ini terjadi karena telinga mencoba untuk beradaptasi dengan tekanan udara. Sudah tentu kan tekanan udara pastilah berbeda.
