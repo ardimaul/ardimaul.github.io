@@ -1,20 +1,7 @@
 ---
 layout: article
-titles:
-  en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
+titles: About
+show_author_profile: true
 ---
 Blog ini mempunya 2 tujuan, sebagai media sharing dan catatan.. Maklumi lah admin ini manusia, bisa juga lupa xD.
 
