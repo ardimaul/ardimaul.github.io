@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Olimpiade Mikrotik di Bali Hari-1
+show_author_profile: true
 tags: Tentangku
 key: 20191025-olimpiade-mikrotik-1
 ---
