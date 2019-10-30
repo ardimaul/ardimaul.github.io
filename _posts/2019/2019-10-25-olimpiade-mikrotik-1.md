@@ -12,8 +12,8 @@ Tiba lah saat nya H-1 acara Olimpiade tahap 3, dan kami bertiga yakni Saya, Dean
 
 `Berikut foto di Bandara Halim`{:.info}
 <div align="center" markdown="1">
-<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054017.jpg"/>
-<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054023.jpg"/>
+<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054017.jpg"/>
+<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054023.jpg"/>
 {:.info}
 </div>
 
@@ -21,8 +21,8 @@ Setibanya di Bandara Halim, kami Checkin sekitar pukul 6.30 WIB yang mana pember
 
 `Ini juga di Bandara Halim`{:.info}
 <div align="center" markdown="1">
-<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_065946.jpg"/>
-<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_075706.jpg"/>
+<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_065946.jpg"/>
+<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_075706.jpg"/>
 {:.info}
 </div>
 
@@ -32,15 +32,15 @@ Nah lama perjalanan ke Bali itu sekitar 2 Jam, sedangkan waktu dibali adalah leb
 
 `Kalau ini di bandara Ngurah Rai`{:.success}
 <div align="center" markdown="1">
-<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_113616.jpg"/>
-<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_115002.jpg"/>
+<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_113616.jpg"/>
+<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_115002.jpg"/>
 {:.success}
 </div>
 
 `Ohana hotel, dibelakang kamar, bagus ya`{:.warning}
 <div align="center" markdown="1">
-<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_122835.jpg"/>
-<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_172529.jpg"/>
+<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_122835.jpg"/>
+<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_172529.jpg"/>
 {:.warning}
 </div>
 
