@@ -21,12 +21,27 @@ Setibanya di Bandara Halim, kami Checkin sekitar pukul 6.30 WIB yang mana pember
 
 `Ini juga di Bandara Halim`{:.info}
 <div align="center" markdown="1">
-<img class="image image--lg" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_075706.jpg"/>
+<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_065946.jpg"/>
+<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_075706.jpg"/>
 {:.info}
 </div>
 
 Oke, kita sudah masuk didalam pesawat. Diatas tempat duduk kita ada kabin tuh, nah itu diperuntukkan untuk barang yang maksimum beratnya 7kg, nah itu untuk aturan pesawat citilink, untuk pesawat lain cari sendiri hehe. Mula mula pesawat akan jalan terlebih dahulu ke ujung jalan (engga ujung juga si), intinya persiapan buat ancang-ancang lah ntah apa itu namanya. Jika sudah jauh, pesawat akan berbalik arah dan Wush.. Akselerasinya begitu cepat. Dan pesawat akan naik, perasaan ketika pesawat take off itu seperti naik Lift, ya kira-kira seperti itu lah. Oh ya, saat pesawat mulai take off, pastikan kalian tidak mengoperasikan perangkat elektronik ya, sekitar 3-5 menit. Jika sudah di udara, boleh lah mengoperasikan dengan catatan hp kalian harus dalam mode Pesawat, kalau ragu matikan saja hp nya. Dan saat didalam pesawat, telinga kalian akan berdengung, wajar kok hal ini terjadi karena telinga mencoba untuk beradaptasi dengan tekanan udara. Sudah tentu kan tekanan udara pastilah berbeda.
 
 Nah lama perjalanan ke Bali itu sekitar 2 Jam, sedangkan waktu dibali adalah lebih cepat 1 jam daripada di bekasi. Artinya jika tadi kita berangkat sekitar jam 8.50 WIB maka kita tiba di Bali pukul 11.50 WIT ya sekitar jam segitu lah hehe, sesampai disana bandara Ngurah Rai, kami memesan ojol dan sampailah kita di Ohana hotel.
+
+`Kalau ini di bandara Ngurah Rai`{:.success}
+<div align="center" markdown="1">
+<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_113616.jpg"/>
+<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_115002.jpg"/>
+{:.success}
+</div>
+
+`Ohana hotel, dibelakang kamar, bagus ya`{:.warning}
+<div align="center" markdown="1">
+<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_122835.jpg"/>
+<img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_172529.jpg"/>
+{:.warning}
+</div>
 
 Ya begitulah, Belajar mikrotik hingga larut malam. Sudahi dulu ya ceritanya, Nanti lanjut kembali..
