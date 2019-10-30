@@ -10,6 +10,20 @@ Hmm mungkin langsung saja ke intinya ya, karena memang seperti inilah saya hehe.
 
 Tiba lah saat nya H-1 acara Olimpiade tahap 3, dan kami bertiga yakni Saya, Dean, dan Bu Nikmah berkumpul jam 5 pagi didepan Halte untuk berangkat bersama. Oh ya, untuk kesana kami dibimbing 2 Guru, yakni Pak Dani dan Ibu Nikmah. Pak Dani tidak ikut berangkat bareng dan memilih untuk menyusul nanti, karena rumah beliau lebih dekat dan 1 arah ke Bandara Halim.
 
+<div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
+  <div class="swiper__wrapper">
+    <div class="swiper__slide"><img class="lightbox-ignore" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054017.jpg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054023.jpg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054017.jpg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054023.jpg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054017.jpg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054023.jpg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054017.jpg"/></div>
+  </div>
+  <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
+  <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
+</div>
+
 `Berikut foto di Bandara Halim`{:.info}
 <div align="center" markdown="1">
 <img class="image image--md" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_054017.jpg"/>
