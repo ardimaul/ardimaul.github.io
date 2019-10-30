@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Olimpiade Mikrotik di Bali Hari-1
 author: Ardiansyah Maulana
 tags: Tentangku
