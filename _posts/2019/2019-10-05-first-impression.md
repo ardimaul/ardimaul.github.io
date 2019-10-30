@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: First Impression
 key: 20191005-first-impession
 ---
