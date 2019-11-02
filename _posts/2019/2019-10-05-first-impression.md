@@ -17,4 +17,4 @@ Imam Syafi'i berkata
 Artinya adalah, kita sebagai manusia memanglah mudah lupa. Hal itu wajar, karena memang seperti itulah kodrat manusia. Untuk mengatasi hal itu, dituntut lah kita untuk mencatat setiap ilmu yang sudah kita dapat. Dengan begitu kita dapat sadar bahwa di titik itulah batas kemampuan kita sebagai manusia.
 
 Memanglah benar kita tidak dapat melampaui batasan diri kita, tetapi bukankah kita dapat memanfaatkan hal disekitar kita untuk melampaui hal yang tidak dapat kita capai? Contoh kecilnya ialah terciptanya Pesawat Terbang.
-Right, That's the power of mind, jangan lupa untuk selalu bersyukur ya, diberi akal oleh Yang Maha Kuasa.
+Right, That's the power of mind, jangan lupa untuk selalu bersyukur ya, karena sudah diberi akal oleh Yang Maha Kuasa.
