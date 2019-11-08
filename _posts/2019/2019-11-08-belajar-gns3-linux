@@ -2,3 +2,9 @@ GNS3 adalah software simulasi yang dapat mensimulasikan berbagai Sistem Operasi.
 
 Tapi seringkali, Kondisi lapangan tak seindah meja belajar. Ya meja belajar terlihat sangat mulus, jalan seperti lewat jalan tol, sangat berbeda dengan kondisi lapangan yang terdapat celah celah bervariasi dari yang lebar sampai kewalahan dibuatnya, dan yang kecil sampai tidar sadar bahwa ada kesalahan dibuatnya.
 
+Ya begitulah pembukaan artikel ini, langsung saja ke Pembahasan. Untuk materi awal, saya akan melakukan bagaimana cara membuat RouterOS dapat berjalan di GNS3, lebih tepatnya saya menggunakan CHR pada GNS3 dengan Qemu Virtualization.
+
+Download terlebih dahulu GNS3nya [disini](https://www.gns3.com/software/download), kalian diharuskan membuat akun terlebih dahulu. Berhubung saya menggunakan Arch Linux, jadi saya menggunakan pamac untuk membuild GNS3.
+```bash
+pamac build gns3-server gns3-gui
+
