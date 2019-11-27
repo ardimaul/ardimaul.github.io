@@ -2,7 +2,7 @@
 layout: article
 title: Keyboard Shortcut di IOS Cisco
 author: Ardiansyah Maulana
-tags: cisco
+tags: Cisco
 key: 20191127-key-shortcut-cisco-ios
 ---
 
