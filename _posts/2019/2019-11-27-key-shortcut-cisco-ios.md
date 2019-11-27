@@ -48,4 +48,4 @@ Exec commands:
   traceroute  Trace route to destination
   ```
   
-  Dah ya, besok lagi. Oke.. sekian terimakasih dan semoga berguna buat catetan xD
+Udah ya, besok lagi. Oke.. sekian terimakasih dan semoga berguna buat catetan xD
