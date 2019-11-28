@@ -2,6 +2,7 @@
 layout: article
 title: About
 show_author_profile: true
+key: page-about
 ---
 Blog ini mempunyai 2 tujuan, sebagai media sharing dan catatan.. Maklumi lah admin ini manusia, bisa juga lupa xD.
 
