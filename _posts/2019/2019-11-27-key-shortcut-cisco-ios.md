@@ -26,7 +26,7 @@ Router(config)#interface
 **CTRL + X** = Menghapus karakter mulai dari kursor sampai karakter paling awal  
 **CTRL + D** = Fungsinya sama kayak tombol DEL, lebih tepatnya penggantinya sih..  
 **CTRL + W** = Menghapus kata per kata, cocok buat typo user xD  
-**CTRL + C** = Keluar config mode, balik ke Privilege mode
+**CTRL + Z** = Keluar config mode, balik ke Privileged exec mode
 
 Nah kalau mau nge list command apa aja yang ada di mode konfigurasi itu, bisa menekan tombol **?**, bakal terjadi kayak gini. Jreng..
 ```
