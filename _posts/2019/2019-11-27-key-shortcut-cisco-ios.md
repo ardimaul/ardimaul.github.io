@@ -11,7 +11,7 @@ Kalian pernah ga si mau ngetik suatu command di cisco, eh malah typo. Ujung-ujun
 Router>wkwk
 Translating "wkwk"...domain server (255.255.255.255)
 ```
-Kalau udah muncul kayak gitu ya cuma bisa nunggu, tapi ada caranya supaya command typo kita tidak di lookup ke domain server, cukup dengan CTRL + SHIFT + 6. Shortcut itu buat meng interrupt (memotong) Cisco IOS Process, jadi bisa juga kalau kita ingin memberhentikan proses traceroute atau ping. Kondisional deh..
+Kalau udah muncul kayak gitu ya cuma bisa nunggu, tapi ada caranya supaya command typo kita tidak di lookup ke domain server.. Ah salah, maksudnya kita mau mengakhiri proses translating cisco tersebut karena kalau ingin mendisable domain lookup ada caranya tersendiri hehe, cukup mudah dengan kombinasi **CTRL + SHIFT + 6**. Shortcut itu buat meng interrupt (memotong) Cisco IOS Process, jadi bisa juga kalau kita ingin memberhentikan proses traceroute, ping atau lainnya. Kondisional deh..
 
 Nah untuk keyboard shortcut Cisco IOS ini banyak sih.. Cuma saya bakal ngasih tau yang saya tau aja hehe
 
