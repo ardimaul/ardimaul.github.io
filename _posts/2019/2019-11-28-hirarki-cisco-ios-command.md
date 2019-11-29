@@ -77,24 +77,8 @@ Exec commands:
   erase       Erase a filesystem
   exit        Exit from the EXEC
   logout      Exit from the EXEC
-  mkdir       Create new directory
-  more        Display the contents of a file
-  no          Disable debugging informations
-  ping        Send echo messages
-  reload      Halt and perform a cold restart
-  resume      Resume an active network connection
-  rmdir       Remove existing directory
-  send        Send a message to other tty lines
-  setup       Run the SETUP command facility
-  show        Show running system information
-  ssh         Open a secure shell client connection
-  telnet      Open a telnet connection
-  terminal    Set terminal line parameters
-  traceroute  Trace route to destination
-  undebug     Disable debugging functions (see also 'debug')
-  vlan        Configure VLAN parameters
-  write       Write running configuration to memory, network, or terminal
-  ```
+ --more--
+```
   
 **Global Configuration Mode**  
 Masuk dari Privileged Mode dengan perintah *configure terminal*,
