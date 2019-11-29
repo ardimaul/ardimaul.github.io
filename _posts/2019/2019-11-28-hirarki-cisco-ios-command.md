@@ -170,3 +170,6 @@ Jika kalian ingin keluar dari spesifik mode (Global mode, Interface mode, dkk). 
 - Key Combo **CTRL + Z**, sama fungsinya seperti command *end*
 
 Oke, sekiranya seperti itu saja. Terimakasih..
+
+Sumber :
+- https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/02_cisco_ios_hierarchy.htm
