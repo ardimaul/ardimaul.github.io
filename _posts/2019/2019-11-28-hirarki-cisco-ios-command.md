@@ -22,6 +22,8 @@ Jadi kalau ditotal ada 7 mode ya, antara lain :
 **Router(config-router)#** | Router Configuration Mode
 **Router(config-line)#** | Line Configuration Mode
 
+<img class="image image--md" src="/image/hirarki-cisco-ios-command/iostree.gif"/>
+
 **User Exec Mode**  
 Muncul pada saat pertama kali kita login kedalam IOS Cisco. Dalam mode ini, kita hanya dapat melakukan perintah monitoring dasar. Kayak gini..
 ```
