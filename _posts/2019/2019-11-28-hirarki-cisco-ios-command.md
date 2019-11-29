@@ -15,7 +15,7 @@ Nah dari Privileged Exec Mode kalian bisa mengakses semua mode turunannya lagi, 
 Jadi kalau ditotal ada 7 mode ya, antara lain :
 
 <div class="grid">
-  <div class="cell cell--5"><b>Router></b></div>
+  <div class="cell cell--auto"><b>Router></b></div>
   <div class="cell cell--auto">User Exec Mode</div>
   <div class="cell cell--5"><b>Router#</b></div>
   <div class="cell cell--auto">Privileged Exec Mode</div>
