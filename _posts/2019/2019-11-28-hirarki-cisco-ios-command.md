@@ -15,19 +15,19 @@ Nah dari Privileged Exec Mode kalian bisa mengakses semua mode turunannya lagi, 
 Jadi kalau ditotal ada 7 mode ya, antara lain :
 
 <div class="grid">
-  <div class="cell cell--3"><b>Router></b></div>
+  <div class="cell cell--5"><b>Router></b></div>
   <div class="cell cell--auto">User Exec Mode</div>
-  <div class="cell cell--3"><b>Router#</b></div>
+  <div class="cell cell--5"><b>Router#</b></div>
   <div class="cell cell--auto">Privileged Exec Mode</div>
-  <div class="cell cell--3"><b>Router(config)#</b></div>
+  <div class="cell cell--5"><b>Router(config)#</b></div>
   <div class="cell cell--auto">Global Configuration Mode</div>
-  <div class="cell cell--3"><b>Router(config-if)#</b></div>
+  <div class="cell cell--5"><b>Router(config-if)#</b></div>
   <div class="cell cell--auto">Interface Configuration Mode</div>
-  <div class="cell cell--3"><b>Router(config-subif)</b>#</div>
+  <div class="cell cell--5"><b>Router(config-subif)</b>#</div>
   <div class="cell cell--auto">SubInterface Configuration Mode</div>
-  <div class="cell cell--3"><b>Router(config-router)#</b></div>
+  <div class="cell cell--5"><b>Router(config-router)#</b></div>
   <div class="cell cell--auto">Router Configuration Mode</div>
-  <div class="cell cell--3"><b>Router(config-line)#</b></div>
+  <div class="cell cell--5"><b>Router(config-line)#</b></div>
   <div class="cell cell--auto">Line Configuration Mode</div>
 </div>
 
