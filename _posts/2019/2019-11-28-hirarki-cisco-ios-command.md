@@ -14,13 +14,13 @@ Nah dari Privileged Exec Mode kalian bisa mengakses semua mode turunannya lagi, 
 
 Jadi kalau ditotal ada 7 mode ya, antara lain :
 
-Router> | User Exec Mode
-Router# | Privileged Exec Mode
-Router(config)# | Global Configuration Mode
-Router(config-if)# | Interface Configuration Mode
-Router(config-subif)# | SubInterface Configuration Mode
-Router(config-router)# | Router Configuration Mode
-Router(config-line)# | Line Configuration Mode
+**Router>** | User Exec Mode
+**Router#** | Privileged Exec Mode
+**Router(config)#** | Global Configuration Mode
+**Router(config-if)#** | Interface Configuration Mode
+**Router(config-subif)#** | SubInterface Configuration Mode
+**Router(config-router)#** | Router Configuration Mode
+**Router(config-line)#** | Line Configuration Mode
 
 **User Exec Mode**  
 Muncul pada saat pertama kali kita login kedalam IOS Cisco. Dalam mode ini, kita hanya dapat melakukan perintah monitoring dasar. Kayak gini..
