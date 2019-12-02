@@ -15,7 +15,7 @@ Kalau udah muncul kayak gitu ya cuma bisa nunggu, tapi ada caranya supaya comman
 
 Nah untuk keyboard shortcut Cisco IOS ini banyak sih.. Cuma saya bakal ngasih tau yang saya tau aja hehe
 
-**TAB** = Untuk melengkapi command yang kita ketik separuh, misal nih cuma ngetik "int" habis itu klik tombol TAB, pasti command itu bakal jadi lengkap kayak gini contohnya
+**TAB** = Untuk melengkapi command yang kita ketik separuh, misal nih cuma ngetik `int` habis itu klik tombol TAB, pasti command itu bakal jadi lengkap kayak gini contohnya
 ```bash
 Router(config)#int
 Router(config)#interface
