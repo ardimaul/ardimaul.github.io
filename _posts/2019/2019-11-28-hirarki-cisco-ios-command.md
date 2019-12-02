@@ -45,7 +45,7 @@ Exec commands:
   traceroute  Trace route to destination
   ```
 **Privileged Exec Mode**  
-Masuk dari User Exec Mode dengan command *enable*
+Masuk dari User Exec Mode dengan command `enable`
 ```
 Router>enable
 Router#
@@ -74,7 +74,7 @@ Exec commands:
 ```
   
 **Global Configuration Mode**  
-Masuk dari Privileged Mode dengan perintah *configure terminal*,
+Masuk dari Privileged Mode dengan perintah `configure terminal`,
 ```
 Router>enable
 Router#configure terminal
@@ -165,8 +165,8 @@ Virtual Line configuration commands:
 ```
 
 Jika kalian ingin keluar dari spesifik mode (Global mode, Interface mode, dkk). Kalian dapat melakukan 3 cara :
-- Dengan perintah **end**, akan keluar dan masuk kedalam Privileged Exec Mode
-- Dengan perintah **exit**, akan keluar dan masuk ke 1 tingkat mode sebelumnya
+- Dengan perintah `end`, akan keluar dan masuk kedalam Privileged Exec Mode
+- Dengan perintah `exit`, akan keluar dan masuk ke 1 tingkat mode sebelumnya
 - Key Combo **CTRL + Z**, sama fungsinya seperti command *end*
 
 Oke, sekiranya seperti itu saja. Terimakasih..
