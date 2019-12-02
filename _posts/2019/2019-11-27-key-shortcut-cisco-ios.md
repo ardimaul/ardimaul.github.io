@@ -51,4 +51,4 @@ Exec commands:
 Udah ya, besok lagi. Oke.. sekian terimakasih dan semoga berguna buat catetan xD
 
 Sumber :  
-- https://www.ciscozine.com/cisco-ios-keyboard-shortcuts/
+- <https://www.ciscozine.com/cisco-ios-keyboard-shortcuts/>
