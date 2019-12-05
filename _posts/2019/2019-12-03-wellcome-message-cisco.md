@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Wellcome Message pada Cisco
+title: Wellcome Message pada Cisco IOS
 author: Ardiansyah Maulana
 tags: Cisco
 key: 20191203-wellcome-message-cisco.md
