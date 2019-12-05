@@ -9,7 +9,7 @@ key: 20191203-wellcome-message-cisco.md
 Daripada Wellcome Message, di dunia Jaringan serta Server kita lebih mengenalnya dengan MOTD atau Message Of The Day. Sekumpulan pesan yang akan tampil pada saat kita ingin login.
 
 Jadi begini
-<pre>
+<pre class="highlight">
 Router><b>enable</b>
 Router#<b>configure terminal</b>
 Enter configuration commands, one per line.  End with CNTL/Z.
@@ -32,7 +32,7 @@ Router>
 ```
 
 Atau bisa juga dengan melihat konfigurasi yang sudah kita buat
-<pre>
+<pre class="highlight">
 Router><b>enable</b>
 Router#<b>show running-config | begin banner</b>
 banner motd ^C
