@@ -3,7 +3,7 @@ layout: article
 title: Wellcome Message pada Cisco IOS
 author: Ardiansyah Maulana
 tags: Cisco
-key: 20191203-wellcome-message-cisco.md
+key: 20191203-wellcome-message-cisco
 ---
 
 Daripada Wellcome Message, di dunia Jaringan serta Server kita lebih mengenalnya dengan MOTD atau Message Of The Day. Sekumpulan pesan yang akan tampil pada saat kita ingin login.
