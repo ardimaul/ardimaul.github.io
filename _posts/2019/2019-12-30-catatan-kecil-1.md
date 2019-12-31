@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Senantiasa bersyukur tidak peduli apapun keadaannya
-tags: catatan-kecil
+tags: Catatan-Kecil
 key: 20191230-catatan-kecil-1
 ---
 
