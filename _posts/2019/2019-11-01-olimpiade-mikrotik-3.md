@@ -17,3 +17,5 @@ Lalu dilanjutkan dengan Presentasi mengoptimalkan Wifi Hotel, presentasinya menj
 Dilanjutkan dengan presentasi milik Michael Takeuchi tentang Packet Analysis, hebat presentasinya menjelaskan soal bagaimana data bisa di tangkap, dibaca, dan tentunya di analisis. Poin utama adalah, data yang hanya bisa dibaca ialah data yang tidak di enkripsi, sedangkan data yang di enkripsi tidaklah bisa dibaca. Jika kalian mengakses web dengan https, data kalian akan aman karena akan dienkripsi dengan SSL atau TLS, hal itu sudah aman sih, lebih baik lagi digabung VPN dijamin aman. Tapi kalau murni cuma http, ya bisa dimata-matai hehe. Buat kalian yang main-main soal Wireshark pasti paham lah hehe
 
 Wah kalau presentasinya, saya ngejelasin itu aja ya. Nanti pengalaman soal ujian sertifikasi nya malah ngga kecerita wkwk. Tapi, masih banyak kok presentasi lainnya, yang pastinya presentasi itu bermanfaat dan mudah dipahami. Jika kalian ingin melihat agenda kemarin, bisa ke [link ini](https://mum.mikrotik.com/2019/ID/agenda).
+
+![Penampakan Presentasi MUM](/image/olimpiade-mikrotik-hari-3/IMG_20191024_111738.jpg)
