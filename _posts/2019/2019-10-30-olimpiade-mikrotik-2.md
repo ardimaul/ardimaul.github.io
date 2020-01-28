@@ -17,3 +17,6 @@ Kami berfikir masa soal si tahap 3 seperti ini, bukannya kita troubleshoot konfi
 Setelah acara pengumuman selesai, selanjutnya kami mendaftar acara MUM. Sebelumnya, kami sudah mendaftar dengan porsi gratis. Kebetulah guru saya, Ibu Nikmah mendapat diskon ntah berapa itu, beruntung sekali ya hehe. Setelah itu, kita masuk kedalam ruangan sembari diberi bingkisan MUM, seperti Kaos, Stiker, dll. Didalam ruangan itu tersedia makanan, minuman, dll. Oh ya, bagi yang islam, disana kalian harus berhati hati ya. Karena ada Bir yang berada dalam satu ruangan tersebut, usahakan untuk melihat dan menanyakan jika kurang jelas. Sudah jelas kok, ada bacaan salah satu merk Bir, jika minuman tersebut tergolong ke bagian tersebut.
 
 Setelah mendaftar MUM, kami mendapat tawaran dari Bu Nikmah untuk mengikuti ujian MTCNA dan MTCRE esok hari, beruntunglah ya saya, Alhamdulillah. Untung saja saya sudah belajar bagian CRE, ya itu karena satu materi juga dengan materi olimpiade hehe. Jadilah malamnya kami belajar lagi, tentang MTCNA dan MTCRE. Ya.. sampai disitulah hal-hal yang dapat saya sampaikan, sampai jumpa di lain post yaaa
+
+Uwahh penampakan didalam, jreng banget ya wkwk
+![Penampakan Ruangan MUM](/image/Olimpiade Mikrotik Hari 2/IMG_20191023_091345.jpg)
