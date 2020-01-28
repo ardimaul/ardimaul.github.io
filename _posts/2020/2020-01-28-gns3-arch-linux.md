@@ -2,7 +2,7 @@
 layout: article
 title: Instalasi GNS3 pada Arch Linux
 author: Ardiansyah Maulana
-tags: Cisco
+tags: Linux
 key: 20200128-gns3-arch-linux
 ---
 
