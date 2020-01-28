@@ -24,7 +24,7 @@ Jadi kalau ditotal ada 7 mode ya, antara lain :
 
 ![Hirarki Cisco IOS Command](/image/hirarki-cisco-ios-command/iostree.gif)
 
-**User Exec Mode**  
+### User Exec Mode  
 Muncul pada saat pertama kali kita login kedalam IOS Cisco. Dalam mode ini, kita hanya dapat melakukan perintah monitoring dasar. Kayak gini..
 ```
 Router>?
@@ -44,7 +44,8 @@ Exec commands:
   terminal    Set terminal line parameters
   traceroute  Trace route to destination
   ```
-**Privileged Exec Mode**  
+
+### Privileged Exec Mode  
 Masuk dari User Exec Mode dengan command `enable`
 ```
 Router>enable
@@ -73,7 +74,7 @@ Exec commands:
  --more--
 ```
   
-**Global Configuration Mode**  
+### Global Configuration Mode  
 Masuk dari Privileged Mode dengan perintah `configure terminal`,
 ```
 Router>enable
@@ -83,7 +84,7 @@ Router(config)#
 ```
 Berisi command untuk konfigurasi Router secara menyeluruh.
 
-**Interface Configuration Mode**  
+### Interface Configuration Mode  
 Berisi konfigurasi untuk interface, contohnya menambahkan IP Address.
 ```
 Router(config)#interface fa0/0
@@ -107,7 +108,7 @@ Router(config-if)#?
  --More-- 
 ```
 
-**SubInterface Configuration Mode**  
+### SubInterface Configuration Mode  
 Untuk membuat sub interface, berisi perintah seputar virtual interface seperti enkapsulasi dot1q dll.
 ```
 Router(config)#interface fa0/0.10
@@ -126,7 +127,7 @@ Router(config-subif)#?
   standby        HSRP interface configuration commands
 ```
 
-**Router Configuration Mode**  
+### Router Configuration Mode
 Untuk membuat dan konfigurasi routing dinamis, seperti bgp, ospf, rip dan eigrp.
 ```
 Router(config)#router ospf 1
@@ -145,7 +146,7 @@ Router(config-router)#?
   router-id              router-id for this OSPF process
 ```
 
-**Line Configuration Mode**  
+### Line Configuration Mode
 Tempat untuk menentukan siapa saja yang dapat mengakses command line, ntah itu ingin dispesifik siapa saja ataupun seberapa banyak yang boleh login.
 ```
 Router(config)#line vty 0
