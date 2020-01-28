@@ -19,4 +19,4 @@ Setelah acara pengumuman selesai, selanjutnya kami mendaftar acara MUM. Sebelumn
 Setelah mendaftar MUM, kami mendapat tawaran dari Bu Nikmah untuk mengikuti ujian MTCNA dan MTCRE esok hari, beruntunglah ya saya, Alhamdulillah. Untung saja saya sudah belajar bagian CRE, ya itu karena satu materi juga dengan materi olimpiade hehe. Jadilah malamnya kami belajar lagi, tentang MTCNA dan MTCRE. Ya.. sampai disitulah hal-hal yang dapat saya sampaikan, sampai jumpa di lain post yaaa
 
 Uwahh penampakan didalam, jreng banget ya wkwk
-![Penampakan Ruangan MUM](/image/Olimpiade Mikrotik Hari 2/IMG_20191023_091345.jpg)
+![Penampakan Ruangan MUM](/image/olimpiade-mikrotik-hari-2/IMG_20191023_091345.jpg)
