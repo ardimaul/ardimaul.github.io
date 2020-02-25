@@ -10,7 +10,7 @@ key: 20200128-gns3-arch-linux
 Disini saya menggunakan pamac untuk Package Management AUR nya, banyak kok alternatif lain, seperti yay misalnya.. AUR kepanjangan dari Advanced User Repository, isinya source code milik user dan diharuskan mem build untuk memasangnya, pokoknya buatan advance user deh..
 ### Install alat-alat
 ```bash
-sudo pamac -Syyu base-devel git
+sudo pacman -Syyu base-devel git
 ```
 ### Install Pamac
 ```bash
