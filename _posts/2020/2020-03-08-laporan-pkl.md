@@ -1,10 +1,10 @@
 ---
 layout: article
-title: Laporan PKL
 author: Ardiansyah Maulana
 tags: Cerita
 key: 20200307-laporan-pkl
 ---
+# Laporan PKL
 Ada yang menarik, yaa lumayan menarik sih. Pada kesempatan kali ini, Ardi bakal ngebagiin hasil laporan selama PKL di PT Berdikari Prima Mandiri. Supaya lebih singkat dan jelas, Saya rangkum menjadi 5W+1H ya wkwk
 
 ## What - Apa  
