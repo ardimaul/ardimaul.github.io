@@ -23,11 +23,12 @@ PKL di PT Berdikari Prima Mandiri, Letaknya di Grand Galaxy City Bekasi Selatan.
 Wah jelas saya sendiri yang bikin laporan, juga didukung oleh Google Search dan beberapa referensi lainnya. Sumber referensi saya utamakan dari luar, karena pemahamannya mereka lebih wah, yaa meski terkadang beberapa katanya sulit dimengerti hehe.
 > Sulit bukan berarti tidak bisa..
 
-* Why - Kenapa 
+* Why - Kenapa  
 Hmm bagian yang menarik, memilih topik ini dikarenakan 2 kompetitor besar tadi yakni Apache & Nginx. Apache merupakan sesepuh web server artinya mereka ini memiliki pengalaman lebih, disisi lain merupakan pemain baru dengan cara kerja yang baru juga.
 Dalam dunia web server, ada tantangan yang namanya C10K problem. Yakni melayani koneksi client sebanyak 10 ribu secara bersamaan, terdengar menarik bukan.
 Pada masanya saat itu, Apache bukanlah pilihan yang bagus dalam menghadapi tantangan itu. Lalu muncullah Nginx yang dapat mengatasi C10K problem.
 Hayo.. Penasaran kan sama cara kerjanya gimana, lanjut cek aja di Laporan yang saya buat wkwk >_<
 Btw, ada permasalahan lagi nih di dekade ini. Namanya C10M, kalau yang tadi 10 ribu, sekarang 10 juta. Permasalahan utamanya sih di cara kerja kernel.. Nanti mungkin saya buat post nya tersendiri.
 
-* How - Bagaimana
+* How - Bagaimana  
+
