@@ -1,7 +1,4 @@
 header:
-  - title : Catatan
-    url : /archive.html?tag=Catatan-Kecil
-    
   - titles:
       en      : &EN       Archive
       en-GB   : *EN
