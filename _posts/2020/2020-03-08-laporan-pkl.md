@@ -22,8 +22,8 @@ PKL di PT Berdikari Prima Mandiri, Letaknya di Grand Galaxy City Bekasi Selatan.
 Sedangkan untuk proses pengerjaan laporan saya kerjakan di rumah sendiri dan rumah teman :D, ssst.. dapet makan gratis wkwkwkwk  
 
 ## Who - Siapa  
-Wah jelas saya sendiri yang bikin laporan, juga didukung oleh Google Search dan beberapa referensi lainnya.
-Sumber referensi saya utamakan dari luar, karena pemahamannya mereka lebih wah, yaa meski terkadang beberapa katanya sulit dimengerti hehe.
+Wah jelas saya sendiri yang bikin laporan, juga didukung oleh Google Search dan beberapa referensi lainnya.  
+Sumber referensi mengenai cara kerjanya saya utamakan dari luar, karena pemahamannya mereka lebih wah, yaa meski terkadang beberapa katanya sulit dimengerti hehe.
 > Sulit bukan berarti tidak bisa..
 
 ## Why - Kenapa  
@@ -42,6 +42,7 @@ Hmm gimana yaa, Biasa aja sih kalau soal menulis laporan. Ohh, mungkin cerita in
 
 Hal utama yang pasti serem deh, akhirnya saya sempet ngerasain skripsi checker mode lite wkwk. Banyak hal-hal yang di ~~corat-coret~~ koreksi, kayak tab indentasi yang ngga pas, ukuran huruf font, jenis font, style font, dan masih banyak yang lainnya.
 
-Tapi nih, beruntungnya kebagian pembimbing yang peduli sama kita. Baguslah seperti itu, artinya pembimbing peduli dengan apa yang kita kerjakan. Jangan menggerutuu aja, toh dengan itu style menulis dokumen kalian bakal lebih terstruktur.
+Tapi nih, beruntungnya kebagian pembimbing yang peduli sama kita. Baguslah seperti itu, artinya pembimbing peduli dengan apa yang kita kerjakan. Jangan menggerutuu aja. Toh dengan begitu, style menulis dokumen kalian bakal lebih terstruktur dan tentunya rapih.
 
-Cuzz, langsung aja ini
+Cuzz, langsung aja Download file nya disini
+[Laporan PKL (Ardiansyah Maulana).pdf](/files/Laporan%20PKL%20%28Ardiansyah%20Maulana%29.pdf)
