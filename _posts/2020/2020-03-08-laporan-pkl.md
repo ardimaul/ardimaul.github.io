@@ -44,5 +44,5 @@ Hal utama yang pasti serem deh, akhirnya saya sempet ngerasain skripsi checker m
 
 Tapi nih, beruntungnya kebagian pembimbing yang peduli sama kita. Baguslah seperti itu, artinya pembimbing peduli dengan apa yang kita kerjakan. Jangan menggerutuu aja. Toh dengan begitu, style menulis dokumen kalian bakal lebih terstruktur dan tentunya rapih.
 
-Cuzz, langsung aja Download file nya disini
+Cuzz, langsung aja Download file nya disini  
 [Laporan PKL (Ardiansyah Maulana).pdf](/files/Laporan%20PKL%20%28Ardiansyah%20Maulana%29.pdf)
