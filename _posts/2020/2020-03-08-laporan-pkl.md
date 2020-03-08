@@ -31,7 +31,7 @@ Hmm bagian yang menarik, memilih topik ini dikarenakan 2 kompetitor besar tadi y
 
 Dalam dunia web server, ada tantangan yang namanya C10K problem. Yakni melayani koneksi client sebanyak 10 ribu secara bersamaan, terdengar menarik bukan.
 
-Pada masanya saat itu, Apache bukanlah pilihan yang bagus dalam menghadapi tantangan itu. Lalu muncullah Nginx yang dapat mengatasi C10K problem.
+Pada saat itu, Apache bukanlah pilihan yang bagus dalam menghadapi tantangan itu. Lalu muncullah Nginx yang dapat mengatasi C10K problem.
 
 Hayo.. Penasaran kan sama cara kerjanya gimana, lanjut cek aja di Laporan yang saya buat wkwk >\_<
 
