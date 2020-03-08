@@ -10,7 +10,7 @@ Ada yang menarik, yaa lumayan menarik sih. Pada kesempatan kali ini, Ardi bakal 
 ## What - Apa  
 Laporan PKL ini berisi mengenai dunia Web Server, khususnya kedua kompetitor besar yang hampir mendominasi Internet yakni Apache dan Nginx.
 
-Kedua kompetitor tersebut hanya bertugas menyediakan pintu masuk alias web server, sudah tentu web-web besar diluar sana membutuhkan yang namanya Database server dan Server-side scripting (Supaya web nya interaktif)
+Kedua kompetitor tersebut hanya bertugas menyediakan pintu masuk alias Web server, sudah tentu web-web besar diluar sana membutuhkan yang namanya Database server dan Server-side scripting (Supaya web nya interaktif)
 
 Oleh karena itu, saya pun membahas Database seperti MySQL, MariaDB dan Server-side scripting seperti PHP. Namun sebatas konsep dasar saja yaa..
 
