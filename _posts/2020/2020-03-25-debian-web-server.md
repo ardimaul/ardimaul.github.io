@@ -58,7 +58,7 @@ Loginlah sebagai root supaya leluasa untuk mengatur hal-hal yang berkaitan denga
 ```
 root@server:~# apt update && apt install -y nginx
 ```
-Biasanya proses nginx akan otomatis berjalan dengan konfigurasi bawaan, coba lah verifikasi dengan mengakses alamat IP web server pada Web Browser
+Biasanya proses nginx akan otomatis berjalan dengan konfigurasi bawaan, coba lah verifikasi dengan mengakses alamat IP web server pada Web Browser  
 ![Verifikasi Nginx web server](/image/2020/2020-03-25-debian-web-server/Web-Nginx.png)
 
 Untuk proses Nginx dapat diverifikasi dengan command berikut
@@ -85,9 +85,9 @@ root@server:~# systemctl start nginx
 ```
 Hmm rasanya kurang keren deh kalau mau mengakses situs menggunakan alamat IP, kenapa? Males hafalin deretan angka, ngga familiar banget. Oke, kita akan menggunakan domain dengan memasang DNS Server. Caranya? Oh.. Cek postingan lain, terpisah hehe
 
-Setelah DNS terpasang, cobalah mengaksesnya dengan domain yang sudah didaftarkan
+Setelah DNS terpasang, cobalah mengaksesnya dengan domain yang sudah didaftarkan  
 ![Ini Nginx](/image/2020/2020-03-25-debian-web-server/Verifikasi-Web-Nginx.png)
-![Verifikasi Domain Web Nginx](/image/2020/2020-03-25-debian-web-server/Domain-Web-Nginx.png)
+![Verifikasi Domain Web Nginx](/image/2020/2020-03-25-debian-web-server/Domain-Web-Nginx.png)  
 Horee bisaaa
 
 ### Multi Site Nginx
@@ -150,8 +150,8 @@ root@infosapu:~# systemctl reload nginx
 ```
 Kalian boleh mengubah isi index tersebut supaya lebih ganteng wkwk..
 
-Sudah semua? Saatnya verifikasi dengan mengakses masing-masing domain.. Berikut hasil dari pekerjaan saya
-~[Verifikasi Multi Site Nginx](/image/2020/2020-03-25-debian-web-server/Multi-Site-Nginx.png)
+Sudah semua? Saatnya verifikasi dengan mengakses masing-masing domain.. Berikut hasil dari pekerjaan saya  
+![Verifikasi Multi Site Nginx](/image/2020/2020-03-25-debian-web-server/Multi-Site-Nginx.png)
 ## Instalasi & Konfigurasi Apache
 Lakukan update repository dan Install paket Apache dengan command ini
 ```
@@ -175,9 +175,9 @@ Aktifkan kembali proses Apachenya dengan command berikut,
 ```
 root@server:~# systemctl start apache2
 ```
-Sampai tahap ini seharusnya Web Server Apache kalian dapat diakses dengan alamat IP maupun domain, dengan catatan harus menggunakan port 8080. Berikut contohnya
+Sampai tahap ini seharusnya Web Server Apache kalian dapat diakses dengan alamat IP maupun domain, dengan catatan harus menggunakan port 8080. Berikut contohnya  
 ![Ini Apache](/image/2020/2020-03-25-debian-web-server/Verifikasi-Web-Apache.png)
-![Verifikasi Apache web server](/image/2020/2020-03-25-debian-web-server/Apache-Web-Server.png)
+![Verifikasi Apache web server](/image/2020/2020-03-25-debian-web-server/Apache-Web-Server.png)  
 Sip bisa..
 
 ### Multi Site Apache
@@ -230,7 +230,7 @@ root@infosapu:~# systemctl reload apache2
 ```
 Seperti biasa, kalian dapat mengubah isi file index tersebut supaya lebih kece..
 
-Jika sudah semua, silahkan verifikasi dengan membuka masing-masing domain pada web browser, ingat harus menggunakan port 8080.
+Jika sudah semua, silahkan verifikasi dengan membuka masing-masing domain pada web browser, ingat harus menggunakan port 8080.  
 ![Verifikasi Situs 3 Apache](/image/2020/2020-03-25-debian-web-server/Situs3-Apache.png)
 ![Verifikasi Situs 4 Apache](/image/2020/2020-03-25-debian-web-server/Situs4-Apache.png)
 ## Combine Nginx with Apache
@@ -262,9 +262,9 @@ root@server:~# systemctl reload nginx
 ```
 Perihal root folder, index, dll itu tidak berguna. Karena fungsi nginx disini hanya meneruskan web server milik apache.. Sekiranya seperti itu.
 
-Jangan lupa lakukan juga dengan situs 4, sudah semua? Lanjut, buka domain masing-masing.
+Jangan lupa lakukan juga dengan situs 4, sudah semua? Lanjut, buka domain masing-masing.  
 ![Verifikasi Reverse Proxy](/image/2020/2020-03-25-debian-web-server/Situs3-reverse-proxy.png)
-![Verifikasi Reverse Proxy](/image/2020/2020-03-25-debian-web-server/Situs4-reverse-proxy.png)
+![Verifikasi Reverse Proxy](/image/2020/2020-03-25-debian-web-server/Situs4-reverse-proxy.png)  
 Woah, it's works.. :D
 
 Sumber? Oh tentu saja ada
