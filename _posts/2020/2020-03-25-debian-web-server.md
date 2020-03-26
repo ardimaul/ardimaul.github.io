@@ -268,5 +268,5 @@ Jangan lupa lakukan juga dengan situs 4, sudah semua? Lanjut, buka domain masing
 Woah, it's works.. :D
 
 Sumber? Oh tentu saja ada
-- https://daverecycles.tumblr.com/post/3104767110/explain-event-driven-web-servers-to-your-grandma
-- https://foxutech.com/apache-vs-nginx-architecture/
+- <https://daverecycles.tumblr.com/post/3104767110/explain-event-driven-web-servers-to-your-grandma>
+- <https://foxutech.com/apache-vs-nginx-architecture/>
