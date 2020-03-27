@@ -268,5 +268,8 @@ Jangan lupa lakukan juga dengan situs 4, sudah semua? Lanjut, buka domain masing
 Woah, it's works.. :D
 
 Sumber? Oh tentu saja ada
+- <https://www.daulae.com/2020/03/16/lab-6-konfigurasi-web-server/>
 - <https://daverecycles.tumblr.com/post/3104767110/explain-event-driven-web-servers-to-your-grandma>
 - <https://foxutech.com/apache-vs-nginx-architecture/>
+
+Jadi sekiranya seperti itu, jangan lupa komentar varian rasanya. Kritik dan saran sangat diperlukan bagi perkembangan manusia ini, Terimakasih.. Jumpa lagi..
