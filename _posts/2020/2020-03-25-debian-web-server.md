@@ -221,12 +221,12 @@ Cukup hilangkan comment (#) pada bagian ServerName dan ganti url menjadi domain 
 ```
 Lakukan juga hal tersebut pada situs 4. Lalu salin file index bawaan ke direktori situs 3 dan 4.
 ```
-root@infosapu:~# cd /var/www/html
-root@infosapu:/var/www/html# mkdir situs3.ardimaul.id situs4.ardimaul.id
-root@infosapu:/var/www/html# for file in situs3 situs4 ; do cp index.html $file.ardimaul.id/index.html ; done
+root@server:~# cd /var/www/html
+root@server:/var/www/html# mkdir situs3.ardimaul.id situs4.ardimaul.id
+root@server:/var/www/html# for file in situs3 situs4 ; do cp index.html $file.ardimaul.id/index.html ; done
 ```
 ```
-root@infosapu:~# systemctl reload apache2
+root@server:~# systemctl reload apache2
 ```
 Seperti biasa, kalian dapat mengubah isi file index tersebut supaya lebih kece..
 
