@@ -1,0 +1,43 @@
+
+<!DOCTYPE html> 
+<html> 
+  
+<head> 
+    <title>IP Checker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+	h1 {
+	   color: white;
+	}
+	.teks {
+	   display: inline;
+	   color: white;
+	}
+	body {
+	   background-color: #183db6;
+	}
+	.center {
+	   margin: 200px auto;
+	   text-align: center;
+	}
+    </style> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"> 
+    </script> 
+  
+    <script>  
+        $.getJSON("http://ipinfo.io", 
+        function(data) {
+            $(".ip").html(data.ip);
+        }) 
+    </script>
+</head> 
+  
+<body>
+	<div class=center>
+	<h1>Ardiansyah Maulana</h1>
+	<p class=teks>IP Publik anda : <div class="ip teks"></div></p>
+	</div>
+</body> 
+  
+</html> 
+
