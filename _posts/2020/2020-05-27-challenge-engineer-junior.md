@@ -144,4 +144,4 @@ I save it as `ip` class html and call it via this element
 And.. the other is my improv, I'm using particle js animation.. I found that in this <https://github.com/VincentGarreau/particles.js>
 
 ### Last
-Thanks for this pretest challenge, I'm glad to learn new things..
+Thanks for this pretest challenge, I'm glad to learn new things.. And sorry, I can't finish up this challenge
