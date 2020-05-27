@@ -1,3 +1,3 @@
-$.getJSON('https://api.ipify.org?format=json', function(data){
-    console.log(data.ip);
+$.getJSON('https://api.ipify.org?format=jsonp&callback=?', function(data) {
+  console.log(JSON.stringify(data, null, 2));
 });
