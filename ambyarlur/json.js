@@ -1,4 +1,3 @@
-$.getJSON("http://ipinfo.io",
-        function(data) {
-            $(".ip").html(data.ip);
-        })
+$.getJSON('https://api.ipify.org?format=json', function(data){
+    console.log(data.ip);
+});
