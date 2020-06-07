@@ -82,7 +82,7 @@ root@ardi:~/ambyarlur# docker-compose up -d
 And voila, it will run container from an image..
 
 ### Fourth, Let's code
-The code is simple I mean, We only search of api with provide get IP Public of Client..
+The code is simple I mean, We only search of api that provide get IP Public of Client..
 
 And this is my main html code,
 ```html
