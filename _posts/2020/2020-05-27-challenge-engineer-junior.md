@@ -144,5 +144,6 @@ I save it as `ip` class html and call it via this element
 And.. the other is my improv, I'm using particle js animation.. I found that in this <https://github.com/VincentGarreau/particles.js>
 
 This is my preview of code.. <https://nyl6t.csb.app/>
+Or you can open it in via this link.. <https://ardimaul.github.io/ambyarlur>, Don't forget to disable adblock if you counter error can't show ip address
 ### Last
 Thanks for this pretest challenge, I'm glad to learn new things.. And sorry, I can't finish up this challenge
