@@ -99,7 +99,7 @@ Sama, cuma nggak make selector, dan endpoints harus didefinisikan manual. Ntahla
 
 Port container yang dipasang ke node, range nya diatas 30000 sampai 32767
 
-### Typer LoadBalancer
+### Type LoadBalancer
 
 Begini contohnya,
 
@@ -122,15 +122,16 @@ status:
 
 Untuk mekanisme loadBalancernya bergantung pada cloud provider yang digunakan.
 
-### Volume
+## Volume
 
 Ada PV (Persistent Volume), Kita harus membuat ini dulu, langkah pertama karena hal ini yang bakal dijadikan sumber daya volume.
 
 Ada juga PVC (Peresistent Volume Claim), Hal kedua yang harus dibuat karena sumber daya harus memiliki perizinan klaim atas volume yang sudah dibuat..
 
-### Ingress
+## Ingress
 
-Ingin loadbalancer, SSL, juga menyatukan service yang berbeda, Ingress adalah solusinya. Dia bisa memanajemen terhadap departemen yang berbeda. Meski begitu, diluar ingress juga harus di proxying, supaya bisa menggunakan port kecil. Sebab ingress nantinya bakal menggunakan nodeport..
+Ingin loadbalancer, SSL, juga menyatukan service yang berbeda, Ingress adalah solusinya. Dia bisa memanajemen terhadap namespace yang berbeda.
+
 
 ### Penutupan
 
