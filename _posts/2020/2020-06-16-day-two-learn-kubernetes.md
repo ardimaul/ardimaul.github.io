@@ -5,9 +5,7 @@ author: Ardiansyah Maulana
 tags: Kubernetes Linux
 key: 20200616-day-two-learn-kubernetes
 ---
-## Day Two
-
-### Sejarah
+## Sejarah
 
 Pada mulanya Google membuat internal system bernama Borg yang kemudian berganti nama menjadi Omega. System ini yang membantu developer dan infra-manager untuk memanajemen ribuan server yang ada di Google.
 
@@ -15,13 +13,13 @@ Sebab pengalaman Google tentang penggunaan Container management system, pada tah
 
 Seiring dengan rilisnya Kubernetes point 1 pada tahun 2015, Google akhirnya bekerjasama dengan Linux Foundation untuk membentuk Cloud Native Computing Foundation (CNCF) dan menawarkan Kubernetes sebagai teknologi unggulan.
 
-### Pengenalan Konsep
+## Pengenalan Konsep
 
 Kubernetes adalah system automation deployment, juga auto scaling, dan manajemen aplikasi berbasis container. Kubernetes merupakan Aplikasi atau System open source yang paling populer saat ini. 
 
 Ketika kalian mendeploy kubernetes, kalian bakal mendapatkan sebuah cluster. Dalam cluster ada yang namanya pekerja (worker) alias node, ya setidaknya bakal ada 1 node yang bakal menjalankan aplikasi container.
 
-### Cara Kerjanya Rumit tapi Simple
+## Cara Kerjanya Rumit tapi Simple
 
 Cara kerja Kubernetes secara garis besar tidak terlalu rumit, dibuat simple karena ingin memudahkan proses development. Dibuat rumit logika kerjanya karena ingin kubernetes bekerja secara struktural dan terorganisir. Ya semoga paham lah..
 
@@ -29,7 +27,7 @@ Kita sudah menyebut soal cluster sebelumnya, Nah dalam cluster itu ada 2 kompone
 
 Alurnya, kita membuat file konfigurasi berupa set-set yang bakal kita terapkan ke Kubernetes. Lalu di apply ke Kubernetes Control plane, dan ya kubernetes Control plane memerintah node untuk memasang aplikasi tersebut.
 
-### Transisi Monolith ke Microservices
+## Transisi Monolith ke Microservices
 
 Jika ada sebuah aplikasi dimana fitur itu lengkap abis, multi fungsi, multi talenta.. Aplikasi itu disebut monolith. Monolith itu masa-masa lampau dimana 1 server bakal dipasang banyak fitur.
 
@@ -39,19 +37,19 @@ Nah Microservices ini merupakan arsitektur fresh dalam dunia perteknologian kita
 
 Nah masalah itu bakal ribet kalau kita masih menggunakan Monolith, karena kita bakal instalasi OS terlebih dahulu mengkonfigurasinya lalu deploy aplikasi kedalamnya. Berbeda dengan Microservice yang menggunakan basis container sebagai wadah aplikasi.
 
-### From Virtual Machine ke Container
+## From Virtual Machine ke Container
 
 Nah ini sempat disinggung tadi, pada awalnya ketika hanya ada aplikasi yang support di satu platform. Lalu ingin terhubung dengan aplikasi pada platform lainnya, apa yang bakal dilakuin? Masa iya, install 2 OS hanya untuk 2 aplikasi itu. Nope, ribet.
 
 Saat ini hadir yang namanya Container, wadah untuk aplikasi tersebut. Sejatinya Container ini hanya menyediakan libraries yang dibutuhkan oleh aplikasi tersebut, jadi kita nggak perlu lagi install satu OS untuk satu aplikasi.
 
-#### Imajinasi
+### Imajinasi
 
 Kita gunakan pengibaratan kendaraan, ada 2 aplikasi yang berbeda ruang lingkupnya sebut saja mobil yang berjalan di darat dan kapal yang wilayah teritorialnya di air. Kedua hal itu ingin saling terhubung, jadi kita hanya perlu membawa mobil itu diatas perahu bukan? Ya untuk berjumpa dengan kapal tentunya..
 
 Maksudnya jika hanya mobil itu, kenapa harus membawa satu daratan kota kalau kita bisa menampung mobil itu di perahu wadah bernama Container. Nah begitu paham saya..
 
-### Komponen dalam Kubernetes
+## Komponen dalam Kubernetes
 
 Meski kelihatannya simple, Control plane yang memanage container juga mengatur node. Namun sebenarnya pihak Control plane juga Node memiliki anggota organisasi nya sendiri.
 
