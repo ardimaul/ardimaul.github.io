@@ -71,4 +71,4 @@ Untuk expose bisa menggunakan nodePort yang diterapkan pada yaml sebelumnya. Bis
 kubectl expose deployment/nginx-deployment --type="NodePort" --port 8080
 ```
 
-Sekian laporan yang saya buat Hari ini, Terimakasih dan maaf bila terdapat kesalahan kata ataupun konsep didalamnya, mohon koreksinya
+Sekian blognya, semoga bermanfaat..
