@@ -5,10 +5,7 @@ author: Ardiansyah Maulana
 tags: Kubernetes Linux
 key: 20200615-day-one-learn-kubernetes
 ---
-
-## Day one
-
-### Pengenalan Konsep
+## Pengenalan Konsep
 
 Kubernetes merupakan Platform as a service, ya.. platform yang menyediakan kontainer, microservices, serta juga cloud. Keuntungannya lebih fleksibel, sebab proses deployment juga dengan konsep kontainerisasi ini bisa mempercepat jalannya development juga update aplikasi.
 
