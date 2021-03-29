@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Hari kedua Belajar Kubernetes Part 2
+title: "[Day Two] Belajar Kubernetes Part 2"
 author: Ardiansyah Maulana
 tags: Kubernetes Linux
 key: 20200616-day-two-learn-kubernetes-part2
