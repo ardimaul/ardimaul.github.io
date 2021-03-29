@@ -69,5 +69,4 @@ Kubernetes Node :
 - Kube-proxy, hal ini yang mengatur arus jaringan ke node, soal load balancing yang misalnya terdapat container yang sama lebih dari 1 node. Kita juga dapat mengatur tentang siapa yang boleh keluar masuk  node disini
 - Container runtime/manager, ya pastinya untuk menjalankan container. Seperti docker, containerd, CRI-O, dan lainnya. Jadi istilah bagusan mana antara docker dan kubernetes itu nggak bisa disandingkan, karena keduanya saling melengkapi. Kubernetes untuk automation, docker untuk containernya.
 
-Sekian blogging yang saya buat Hari ini, Terimakasih dan maaf bila terdapat kesalahan kata didalamnya..  
-Semoga bermanfaatt
+Sekian blognya, moga bermanfaat ya gaes ya
