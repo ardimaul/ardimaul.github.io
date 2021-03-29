@@ -3,7 +3,7 @@ layout: article
 title: Hari pertama Belajar Kubernetes
 author: Ardiansyah Maulana
 tags: Kubernetes Linux
-key: 20200616-day-one-learn-kubernetes
+key: 20200615-day-one-learn-kubernetes
 ---
 
 ## Day one
