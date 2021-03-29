@@ -5,7 +5,6 @@ author: Ardiansyah Maulana
 tags: Kubernetes Linux
 key: 20200617-day-three-learn-kubernetes
 ---
-## Day three
 ## Pods
 
 Pods adalah layer abstrak yang dibuat kubernetes, karena didalam pods akan terdapat 1 atau lebih container/aplikasi. Pods itu tempat dimana sharing storage, network, serta resource ke container ke container lain yang masih dalam 1 pods yang sama.
