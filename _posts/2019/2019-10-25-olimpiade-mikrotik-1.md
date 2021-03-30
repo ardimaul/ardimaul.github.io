@@ -20,9 +20,8 @@ Tiba lah saat nya H-1 acara Olimpiade tahap 3, dan kami bertiga yakni Saya, Dean
 Setibanya di Bandara Halim, kami Checkin sekitar pukul 6.30 WIB yang mana pemberangkatan pesawatnya (Take Off) pukul 8.50 WIB. Dan tibalah saatnya dimana pemindaian dan pengecekan barang, kita sebut saja nama alat itu Scan tool xD, saat menggunakannya kan ada nampan tuh, tiap barang entah itu tas, jaket, sabuk metal, intinya barang yang ada metal nya itu ditaruh di nampan. Nah namanya juga pertama kali mencoba, saya langsung menaruh HP serta dompet tanpa menggunakan nampan, setelah melewati scan tool, ditegur sama petugasnya dan untung saja hp saya tidak nyangkut ehehe, duh pengalaman berharga hehe. Teman saya si Dean, malah ditegur karena sabuk metalnya yang belum dilepas xD. Ya sudahlah,,
 
 `Ini juga di Bandara Halim`{:.info}
-<div align="center" markdown="1">
-<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_065946.jpg"/>
-<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_075706.jpg"/>
+<div markdown="1">
+![Image](/image/Olimpiade Mikrotik Hari 1/IMG_20191022_065946.jpg){:.rounded.image--md} &nbsp; &nbsp; ![Image](/image/Olimpiade Mikrotik Hari 1/IMG_20191022_075706.jpg){:.rounded.image--md}
 {:.info}
 </div>
 
@@ -31,16 +30,14 @@ Oke, kita sudah masuk didalam pesawat. Diatas tempat duduk kita ada kabin tuh, n
 Nah lama perjalanan ke Bali itu sekitar 2 Jam, sedangkan waktu dibali adalah lebih cepat 1 jam daripada di bekasi. Artinya jika tadi kita berangkat sekitar jam 8.50 WIB maka kita tiba di Bali pukul 11.50 WIT ya sekitar jam segitu lah hehe, sesampai disana bandara Ngurah Rai, kami memesan ojol dan sampailah kita di Ohana hotel.
 
 `Kalau ini di bandara Ngurah Rai`{:.success}
-<div align="center" markdown="1">
-<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_113616.jpg"/>
-<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_115002.jpg"/>
+<div markdown="1">
+![Image](/image/Olimpiade Mikrotik Hari 1/IMG_20191022_113616.jpg){:.rounded.image--md} &nbsp; &nbsp; ![Image](/image/Olimpiade Mikrotik Hari 1/IMG_20191022_115002.jpg){:.rounded.image--md}
 {:.success}
 </div>
 
 `Ohana hotel, dibelakang kamar, bagus ya`{:.warning}
-<div align="center" markdown="1">
-<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_122835.jpg"/>
-<img class="image image--sm" src="/image/Olimpiade Mikrotik Hari 1/IMG_20191022_172529.jpg"/>
+<div markdown="1">
+![Image](/image/Olimpiade Mikrotik Hari 1/IMG_20191022_122835.jpg){:.rounded.image--md} &nbsp; &nbsp; ![Image](/image/Olimpiade Mikrotik Hari 1/IMG_20191022_172529.jpg){:.rounded.image--md}
 {:.warning}
 </div>
 
