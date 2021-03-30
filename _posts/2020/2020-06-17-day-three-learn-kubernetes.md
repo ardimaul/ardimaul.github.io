@@ -52,7 +52,7 @@ Konsep docker begini, container dapat terhubung dengan lainnya jika berada pada 
 
 Maknanya mereka harus mengkordinasikan port mana yang bakal digunain, harus secara cermat karena port akan dialokasikan terus secara dinamis.
 
-Mengkordinasikan port sebanyak itu bakalan susah kalau ditambah scaling ntah itu diperkecil atau diperbanyak. Oleh karena itu kubernetes menyediakan setiap pod nya clusterIP jadi kita nggak perlu lagi memetakan port kedalam node port. Ya setiap kontainer dalam 1 pod dapat berkomunikasi dengan [localhost](http://localhost) via port, juga container dalam cluster yang sama tidak perlu berkomunikasi menggunakan NAT.
+Mengkordinasikan port sebanyak itu bakalan susah kalau ditambah scaling ntah itu diperkecil atau diperbanyak. Oleh karena itu kubernetes menyediakan setiap pod nya clusterIP jadi kita nggak perlu lagi memetakan port kedalam node port. Ya setiap kontainer dalam 1 pod dapat berkomunikasi dengan localhost via port, juga container dalam cluster yang sama tidak perlu berkomunikasi menggunakan NAT.
 
 ## Service
 
