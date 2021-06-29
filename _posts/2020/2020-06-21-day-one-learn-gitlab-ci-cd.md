@@ -2,7 +2,7 @@
 layout: article
 title: "[Day One] Belajar Gitlab CI/CD"
 author: Ardiansyah Maulana
-tags: Kubernetes Linux
+tags: DevOps CI-CD
 key: 20200621-day-one-learn-gitlab-ci-cd
 ---
 # Belajar Gitlab CI/CD hari ke-1
