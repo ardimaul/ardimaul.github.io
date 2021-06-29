@@ -5,7 +5,7 @@ author: Ardiansyah Maulana
 tags: Kubernetes Linux
 key: 20200621-day-one-learn-gitlab-ci-cd
 ---
-# Belajar Gitlab CI/CD hari ke-7
+# Belajar Gitlab CI/CD hari ke-1
 
 ## Pengenalan Konsep
 
