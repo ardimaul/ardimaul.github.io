@@ -61,7 +61,7 @@ Biasanya pipeline lanjutan itu bakal tereksekusi otomatis, namun ada saat dimana
 1. Developer pull code yang berasal dari Gitlab
 2. Setelah bersenang ria dengan codingan entah merubah atau menambahkan, developer melakukan push ke Gitlab
 3. Kalau ada perubahan, Gitlab bakal ngelakuin building dan push ke Docker registry
-4. Setelah berhasil, Gitlab bakal pull image dari docker registry dan ngedeploy ke Kubernetes
+4. Setelah berhasil, Gitlab bakal eksekusi kubernetes buat ngepull image dari docker registry dan deploy image terbaru
 5. Kalau semuanya berhasil, maka container siap dijalankan..
 
 Gitlab punya tempat untuk registri image juga, hanya saja saya mencobanya dengan docker hub registri..
